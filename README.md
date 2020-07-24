@@ -1,5 +1,5 @@
 # TPG4920-Masters-Thesis
-The title of the thesis is "Calculation and Visualization of Energy Dissipation and Energy Balance in Reservoir Models". You can see the full thesis at the file named "Master's Thesis - Fadhil Berylian.pdf".
+The title of the thesis is "Calculation and Visualization of Energy Dissipation and Energy Balance in Reservoir Models". You can see the full thesis at the file named "Master's Thesis - Fadhil Berylian.pdf". Section 3.1 of the thesis details how the scripts work, and the workflow is presented in the thesis as Figure 3.2.
 
 The scripts are written in Python. The objective of the scripts is to extract necessary data from the reservoir visualization software ResInsight, then process the data to get energy changes in the reservoir system during simulation of field production. Obtaining visualization of how energy is used in reservoir is important, especially during simulation phase prior to starting production. Results from these scripts could provide considerations to optimize production scenario by modifying well placement/well control/etc.
 
